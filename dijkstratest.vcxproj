@@ -133,6 +133,8 @@
   <ItemGroup>
     <ClCompile Include="AddNode.cpp" />
     <ClCompile Include="dijkstratest.cpp" />
+    <ClCompile Include="Linear.cpp" />
+    <ClCompile Include="LiveManagement.cpp" />
     <ClCompile Include="LoginSignup.cpp" />
     <ClCompile Include="MAIN MENU.cpp" />
     <ClCompile Include="MySQLDatabase.cpp" />
@@ -143,6 +145,8 @@
   <ItemGroup>
     <ClInclude Include="AddNode.h" />
     <ClInclude Include="DijkstraMain.h" />
+    <ClInclude Include="Linear.h" />
+    <ClInclude Include="LiveManagement.h" />
     <ClInclude Include="LoginSignup.h" />
     <ClInclude Include="MySQLDatabase.h" />
     <ClInclude Include="RouteOptMenu.h" />
